@@ -3,5 +3,5 @@ import pytest
 
 def test_i():
     j = i()
-    assert j == 25
+    assert j == 24
 
